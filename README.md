@@ -75,7 +75,7 @@ url_launcher
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/renting_car.git
+git clone https://github.com/yobernu/renting_car.git
 cd renting_car
 
 2️⃣ Install dependencies
@@ -107,9 +107,6 @@ flutterfire configure
 All app assets are located inside:
 
 assets/
-
-
-Make sure assets are properly declared in pubspec.yaml.
 
 📄 License
 
